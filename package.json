@@ -1,0 +1,9 @@
+{
+  "name": "headless-prototype",
+  "version": "1.0.0",
+  "description": "HeadLess eCommerce solution by Tempo eCommerce",
+  "main": "index.js",
+  "repository": "https://github.com/tempo-ruud/headless-commerce",
+  "author": "Ruud van Engelenhoven",
+  "license": "MIT"
+}
